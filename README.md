@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batmanpriv&hide=contribs,prs)
+
 # I'm BatmanPriv
 
 <p align="center">
