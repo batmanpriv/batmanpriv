@@ -1,7 +1,7 @@
 # I'm BatmanPriv
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=#F70000FF&center=true&vCenter=true&random=false&width=700&height=70&lines=NEVER+TRUST+A+COMPUTER;GIVEN+ENOUGH+EYEBALLS;FREE+SOFTWARE+IS+LIBERTY;WHAT+IS+NOT+SHARED+IS+LOST;SECURITY+IS+A+PROCESS;THE+BEST+WAY+TO+PREDICT;SOURCE+CODE+IS+MAGIC;TWO+TYPES+OF+COMPANIES" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70000FF&center=true&vCenter=true&random=false&width=700&height=70&lines=NEVER+TRUST+A+COMPUTER;GIVEN+ENOUGH+EYEBALLS;FREE+SOFTWARE+IS+LIBERTY;WHAT+IS+NOT+SHARED+IS+LOST;SECURITY+IS+A+PROCESS;THE+BEST+WAY+TO+PREDICT;SOURCE+CODE+IS+MAGIC;TWO+TYPES+OF+COMPANIES" alt="Typing SVG" />
 </p>
 
 ---
