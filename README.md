@@ -60,3 +60,9 @@
 
 **🔮 Follow the white rabbit...**  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=00ff41)](https://github.com/batmanpriv)
+
+<p align="center">
+  <a href="https://t.me/batmanpriv">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram" />
+  </a>
+</p>
