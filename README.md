@@ -37,6 +37,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <a href="https://github.com/batmanpriv/HyperAdvancedDownloader-Android/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=HyperAdvancedDownloader-Android&theme=highcontrast&border_color=00ff00&border_radius=16" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
