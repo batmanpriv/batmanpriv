@@ -51,13 +51,13 @@
 > *"When the system asks for your password, remember: you are the password. You are the exploit. You are the one who knocks on the digital door and finds it unlocked."*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Mogra&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
 </p>
 
 ---
 
 **🔮 Follow the white rabbit...**  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=00ff41)](https://github.com/batmanpriv)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=7D00F7FF)](https://github.com/batmanpriv)
 
 <p align="center">
   <a href="https://t.me/batmanpriv">
