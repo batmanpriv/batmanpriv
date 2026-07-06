@@ -78,23 +78,91 @@
 
 ## 💀 Matrix Status
 
-```js
-const batman = {
-  status: "🟢 Root",
-  mission: "Decrypt the unbreakable",
-  motto: "With great power comes great root access",
-  tools: ["Python", "Bash", "C++", "Assembly", "Kali", "Nmap", "Metasploit"],
-  philosophy: "The code is a mirror — break it, and you break reality"
-};
+```go
+package main
+
+import "fmt"
+
+type Hacker struct {
+    Status    string
+    Mission   string
+    Motto     string
+    Tools     []string
+    Languages []string
+}
+
+func main() {
+    batman := Hacker{
+        Status:  "🟢 Root",
+        Mission: "Decrypt the unbreakable",
+        Motto:   "With great power comes great root access",
+        Tools:   []string{"Nmap", "Metasploit", "Wireshark", "Burp Suite", "Hydra"},
+        Languages: []string{"Go", "C++", "Python", "JavaScript", "PHP"},
+    }
+    
+    fmt.Printf("Status: %s\n", batman.Status)
+    fmt.Printf("Mission: %s\n", batman.Mission)
+    fmt.Printf("Motto: %s\n", batman.Motto)
+    fmt.Printf("Languages: %v\n", batman.Languages)
+}
 ```
 
----
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
 
-## 🕹️ Stats From The Other Side
+class Hacker {
+public:
+    std::string status;
+    std::string mission;
+    std::string motto;
+    std::vector<std::string> languages;
+    
+    Hacker() {
+        status = "🟢 Root";
+        mission = "Decrypt the unbreakable";
+        motto = "With great power comes great root access";
+        languages = {"Go", "C++", "Python", "JavaScript", "PHP"};
+    }
+    
+    void display() {
+        std::cout << "Status: " << status << std::endl;
+        std::cout << "Mission: " << mission << std::endl;
+        std::cout << "Motto: " << motto << std::endl;
+        std::cout << "Languages: ";
+        for (const auto& lang : languages) {
+            std::cout << lang << " ";
+        }
+        std::cout << std::endl;
+    }
+};
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batmanpriv&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub Stats" />
-</p>
+int main() {
+    Hacker batman;
+    batman.display();
+    return 0;
+}
+```
+
+### 🛠️ Language Arsenal
+
+```mermaid
+pie
+    "Go" : 25
+    "C++" : 25
+    "Python" : 20
+    "JavaScript" : 15
+    "PHP" : 15
+```
+
+| Language      | Purpose                          |
+|---------------|----------------------------------|
+| **Go**        | High-performance networking      |
+| **C++**       | System-level exploits            |
+| **Python**    | Automation & scripting           |
+| **JavaScript**| Web penetration                  |
+| **PHP**       | Server-side vulnerabilities      |
 
 ---
 
@@ -110,4 +178,5 @@ const batman = {
 
 **🔮 Follow the white rabbit...**  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=00ff41)](https://github.com/batmanpriv)
+
 
