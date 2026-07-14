@@ -16,7 +16,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/had/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=had&theme=radical&border_color=00ff00&border_radius=16" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=had&theme=radical&border_color=ff0000&border_radius=16" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -28,24 +28,24 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/VPSH/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=VPSH&theme=synthwave&border_color=00ff00&border_radius=16" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=VPSH&theme=synthwave&border_color=ff00ff&border_radius=16" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/Vandor/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=Vandor&theme=highcontrast&border_color=00ff00&border_radius=16" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=Vandor&theme=highcontrast&border_color=00ffff&border_radius=16" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/HyperAdvancedDownloader-Android/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=HyperAdvancedDownloader-Android&theme=highcontrast&border_color=00ff00&border_radius=16" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=HyperAdvancedDownloader-Android&theme=dark&border_color=ffff00&border_radius=16" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/PH-Poc/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PH-Poc&theme=radical&border_color=00ff00&border_radius=16" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PH-Poc&theme=radical&border_color=ff6600&border_radius=16" />
       </a>
     </td>
   </tr>
