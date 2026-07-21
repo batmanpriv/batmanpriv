@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 > *"When the system asks for your password, remember: you are the password. You are the exploit. You are the one who knocks on the digital door and finds it unlocked."*
