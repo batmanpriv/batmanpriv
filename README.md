@@ -14,7 +14,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33.33%">
+    <td align="center" width="50.33%">
       <a href="https://github.com/batmanpriv/ct/">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=ct&theme=radical&border_color=ff0000&border_radius=16" />
       </a>
