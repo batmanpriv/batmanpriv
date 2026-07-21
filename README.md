@@ -53,16 +53,6 @@
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PH-Poc&theme=gruvbox&border_color=ff0000&border_radius=16" />
       </a>
     </td>
-    <td align="center" width="33.33%">
-      <a href="https://github.com/batmanpriv/YourNextRepo/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=YourNextRepo&theme=synthwave&border_color=00ff00&border_radius=16" />
-      </a>
-    </td>
-    <td align="center" width="33.33%">
-      <a href="https://github.com/batmanpriv/AnotherRepo/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=AnotherRepo&theme=highcontrast&border_color=ff00ff&border_radius=16" />
-      </a>
-    </td>
   </tr>
 </table>
 ---
