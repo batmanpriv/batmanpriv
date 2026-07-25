@@ -44,15 +44,15 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/batmanpriv/PyObfuscator/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PyObfuscator&theme=merko&border_color=00ff88&border_radius=16" width="100%" />
+      <a href="https://github.com/batmanpriv/TeleHunt/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=TeleHunt&theme=merko&border_color=00ff88&border_radius=16" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" colspan="2">
-      <a href="https://github.com/batmanpriv/TeleHunt/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=TeleHunt&theme=aura&border_color=ff8800&border_radius=16" width="100%" />
+      <a href="https://github.com/batmanpriv/PyObfuscator/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PyObfuscator&theme=aura&border_color=ff8800&border_radius=16" width="100%" />
       </a>
     </td>
   </tr>
