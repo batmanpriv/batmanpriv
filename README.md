@@ -1,15 +1,3 @@
-# I'm BatmanPriv
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=28&pause=1000&color=F70000FF&center=true&vCenter=true&random=false&width=700&height=70&lines=NEVER+TRUST+A+COMPUTER;GIVEN+ENOUGH+EYEBALLS;FREE+SOFTWARE+IS+LIBERTY;WHAT+IS+NOT+SHARED+IS+LOST;SECURITY+IS+A+PROCESS;THE+BEST+WAY+TO+PREDICT;SOURCE+CODE+IS+MAGIC;TWO+TYPES+OF+COMPANIES" alt="Typing SVG" />
-</p>
-
----
-
-> *"In the beginning, there was the command line. And it was void. Then came the first prompt, and the system spoke: `whoami` — and I answered: `root`."*
-
----
-
 ## 🕶️ The Arsenal
 
 <table align="center">
@@ -50,29 +38,22 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/PH-Poc/">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PH-Poc&theme=gruvbox&border_color=ff0000&border_radius=16" width="100%" />
       </a>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/batmanpriv/PyObfuscator/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PyObfuscator&theme=merko&border_color=00ff88&border_radius=16" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <a href="https://github.com/batmanpriv/TeleHunt/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=TeleHunt&theme=aura&border_color=ff8800&border_radius=16" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
-
----
-
-> *"When the system asks for your password, remember: you are the password. You are the exploit. You are the one who knocks on the digital door and finds it unlocked."*
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mogra&size=24&duration=2000&pause=1000&color=7D00F7FF&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
-</p>
-
----
-
-**🔮 Follow the white rabbit...**  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=7D00F7FF)](https://github.com/batmanpriv)
-
-<p align="center">
-  <a href="https://t.me/batmanpriv">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram" />
-  </a>
-</p>
