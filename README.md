@@ -50,14 +50,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/PyObfuscator/">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=PyObfuscator&theme=aura&border_color=ff8800&border_radius=16" width="100%" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/Telegram-Phishing/">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=Telegram-Phishing&theme=onedark&border_color=ffcc00&border_radius=16" width="100%" />
       </a>
