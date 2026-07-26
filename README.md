@@ -1,10 +1,5 @@
 # I'm BatmanPriv
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.com?font=Caveat&weight=600&size=28&pause=1000&color=F70000FF&center=true&vCenter=true&random=false&width=700&height=70&lines=NEVER+TRUST+A+COMPUTER;GIVEN+ENOUGH+EYEBALLS;FREE+SOFTWARE+IS+LIBERTY;WHAT+IS+NOT+SHARED+IS+LOST;SECURITY+IS+A+PROCESS;THE+BEST+WAY+TO+PREDICT;SOURCE+CODE+IS+MAGIC;TWO+TYPES+OF+COMPANIES" alt="Typing SVG" />
-</p>
-
----
 
 > *"In the beginning, there was the command line. And it was void. Then came the first prompt, and the system spoke: `whoami` — and I answered: `root`."*
 
