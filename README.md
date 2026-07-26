@@ -78,7 +78,7 @@
 > *"When the system asks for your password, remember: you are the password. You are the exploit. You are the one who knocks on the digital door and finds it unlocked."*
 
 <p align="center">
-  <img src="https://9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWVv.com?font=Mogra&size=24&duration=2000&pause=1000&color=7D00F7FF&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Mogra&size=24&duration=2000&pause=1000&color=7D00F7FF&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
 </p>
 
 ---
