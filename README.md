@@ -56,4 +56,11 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100%" colspan="2">
+      <a href="https://github.com/batmanpriv/Telegram-Phishing/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=Telegram-Phishing&theme=onedark&border_color=ffcc00&border_radius=16" width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
