@@ -1,3 +1,15 @@
+# I'm BatmanPriv
+
+<p align="center">
+  <img src="https://9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWVv.com?font=Caveat&weight=600&size=28&pause=1000&color=F70000FF&center=true&vCenter=true&random=false&width=700&height=70&lines=NEVER+TRUST+A+COMPUTER;GIVEN+ENOUGH+EYEBALLS;FREE+SOFTWARE+IS+LIBERTY;WHAT+IS+NOT+SHARED+IS+LOST;SECURITY+IS+A+PROCESS;THE+BEST+WAY+TO+PREDICT;SOURCE+CODE+IS+MAGIC;TWO+TYPES+OF+COMPANIES" alt="Typing SVG" />
+</p>
+
+---
+
+> *"In the beginning, there was the command line. And it was void. Then came the first prompt, and the system spoke: `whoami` — and I answered: `root`."*
+
+---
+
 ## 🕶️ The Arsenal
 
 <table align="center">
@@ -62,3 +74,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+> *"When the system asks for your password, remember: you are the password. You are the exploit. You are the one who knocks on the digital door and finds it unlocked."*
+
+<p align="center">
+  <img src="https://9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWVv.com?font=Mogra&size=24&duration=2000&pause=1000&color=7D00F7FF&center=true&vCenter=true&width=500&lines=EXIT;LOGOUT;SHUTDOWN;...JUST+KIDDING;I+OWN+THE+SHUTDOWN" alt="Outro Typing" />
+</p>
+
+---
+
+**🔮 Follow the white rabbit...**  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0a0a0a&labelColor=7D00F7FF)](https://github.com/batmanpriv)
+
+<p align="center">
+  <a href="https://t.me/batmanpriv">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram" />
+  </a>
+</p>
