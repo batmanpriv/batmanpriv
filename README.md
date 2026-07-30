@@ -71,6 +71,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/batmanpriv/BatProxy/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=BatProxy&theme=midnight-purple&border_color=aa44ff&border_radius=16" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/batmanpriv/proxy-cookie/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=proxy-cookie&theme=github_dark&border_color=ff3399&border_radius=16" width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
