@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/batmanpriv/proxy-cookie/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=proxy-cookie&theme=github_dark&border_color=ff3399&border_radius=16" width="100%" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=proxy-cookie&theme=apprentice&border_color=ff3399&border_radius=16" width="100%" />
       </a>
     </td>
   </tr>
