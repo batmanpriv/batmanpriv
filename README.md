@@ -91,7 +91,7 @@
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=batmanpriv&theme=radical">
   <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=batmanpriv&theme=default">
-</picture>
+</picture><br>
   <a href="https://t.me/batmanpriv">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" alt="Telegram" />
   </a>
