@@ -18,8 +18,8 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/batmanpriv/had/">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=had&theme=gruvbox&border_color=00ff00&border_radius=16" width="100%" />
+      <a href="https://github.com/batmanpriv/404DPI/">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=batmanpriv&repo=404DPI&theme=gruvbox&border_color=00ff00&border_radius=16" width="100%" />
       </a>
     </td>
   </tr>
